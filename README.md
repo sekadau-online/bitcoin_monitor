@@ -19,7 +19,7 @@
 1. **Clone repo ini:**
 
 ```bash
-git clone https://github.com/sekadau-online/bitcoin-monitor.git
+git clone https://github.com/sekadau-online/bitcoin_monitor.git
 cd bitcoin-monitor
 ```
 
@@ -110,4 +110,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE). Bebas digunakan, dimodi
 
 ## 📣 Hubungi
 
-Jika Anda memiliki pertanyaan, ide fitur, atau ingin berkontribusi, silakan buka [Issue](https://github.com/sekadau-online/bitcoin-monitor/issues) atau kirim email ke: **[fauzan.skd@gmail.com](mailto:fauzan.skd@gmail.com)**
+Jika Anda memiliki pertanyaan, ide fitur, atau ingin berkontribusi, silakan buka [Issue](https://github.com/sekadau-online/bitcoin_monitor/issues) atau kirim email ke: **[fauzan.skd@gmail.com](mailto:fauzan.skd@gmail.com)**
